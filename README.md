@@ -2,15 +2,15 @@
 
 [![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
-Oxylabs’ [Financial-Data Scraper](https://oxylabs.io/products/scraper-api/web/financial-data-scraper?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from an Financial-Data website effortlessly. This brief guide explains how an Financial-Data Scraper works and provides code examples to understand better how you can use it hassle-free.
+Oxylabs’ [Financial Data Scraper](https://oxylabs.io/products/scraper-api/web/financial-data-scraper?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from any financial website effortlessly. This brief guide explains how an Financial Data Scraper works and provides code examples to understand better how you can use it hassle-free.
 
 ### How it works
 
-You can get Financial-Data results by providing your own URLs to our service. We can return the HTML for any Financial-Data page you like.
+You can get financial data results by providing your own URLs to our service. We can return the HTML for any financial page you like.
 
 #### Python code example
 
-The example below illustrates how you can get HTML of Financial-Data page.
+The example below illustrates how you can get HTML of a sample financial website.
 
 ```python
 import requests
@@ -52,4 +52,4 @@ Find code examples for other programming languages [**here**](https://github.com
   ]
 }
 ```
-With our Financial-Data Scraper, you can seamlessly collect important financial figures and statistics from any Financial-Data web page. Harness data such as market trends, stock prices, company financials, or investor sentiments to understand the financial landscape and outperform your competitors. If any queries arise, our support team is just a live chat or email away at hello@oxylabs.io.
+With our Financial Data Scraper, you can seamlessly harness data such as market trends, stock prices, company financials, or investor sentiments to understand the financial landscape and outperform your competitors. If any queries arise, our support team is just a live chat or email away at hello@oxylabs.io.
